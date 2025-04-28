@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.title-section {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.title-section h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.benefits-section {
+    text-align: left;
+}
+.benefits-section h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.benefits-section ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
