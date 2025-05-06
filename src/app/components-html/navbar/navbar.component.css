@@ -1,10 +1,15 @@
 .navbar {
-  background-color: #22CC23 !important;
+  background-color: #228B22 !important;
 }
 
 .navbar .navbar-brand,
 .navbar .nav-link {
   color: white !important;
+}
+.logo-pequeno {
+  width: 40%; /* Ajusta este valor según necesites */
+  height:30%;
+  object-fit: cover; 
 }
 .navbar .dropdown:hover .dropdown-menu {
   display: block;
